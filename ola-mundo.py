@@ -33,6 +33,8 @@ print(10%3)
 
 print(2+8)
 
+
+
 print(5/2)
 
 print(50-20)
@@ -52,6 +54,44 @@ print(5**2)
 num1 = int(input("digite um número: "))
 num2 = int(input("digite outro número: "))
 print (num1 + num2)
+
+
+
+
+
+nome = samuel
+sobrenome = silva
+print(nome + sobrenome)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
