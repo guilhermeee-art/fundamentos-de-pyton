@@ -63,6 +63,14 @@ nome = samuel
 sobrenome = silva
 print(nome + sobrenome)
 
+var = 
+
+print(int)
+
+
+var_media = int(input("digite três letras: "))
+print(var_media)
+
 
 
 
